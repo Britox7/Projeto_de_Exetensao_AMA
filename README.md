@@ -13,4 +13,3 @@ Bem-vindo à AMA (Associação de Apoio ao Autismo e Outras Deficiências), uma 
 
 ## Demonstração
 
-Link para Demonstração do site: https://saviosoares07.github.io/AMA/
